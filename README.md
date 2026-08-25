@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a full-stack engineer who **ships end-to-end products** â€” the kind with real users, real payments, and real infrastructure. My work spans from **Go/Rust desktop vaults** to **production SaaS platforms** running on PM2 behind Cloudflare. I don't stop at "it works on my machine": I handle the payment flows, the SMTP deliverability, the race conditions, and the auto-update signing pipelines.
+I'm a full-stack engineer who **ships end-to-end products** — the kind with real users, real payments, and real infrastructure. My work spans from **Go/Rust desktop vaults** to **production SaaS platforms** running on PM2 behind Cloudflare. I don't stop at "it works on my machine": I handle the payment flows, the SMTP deliverability, the race conditions, and the auto-update signing pipelines.
 
 ```yaml
 name: Musfiqur Rahman Saimon
@@ -25,14 +25,14 @@ currently_building: AI-powered tooling & agent integrations (MCP)
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| ðŸ” [**AHS Vault**](https://github.com/britsync07-prog/ahs-app) | Zero-knowledge biometric vault â€” AES-256-GCM chunked storage unlocked by paired phone / WebAuthn | `Go` `Rust/Tauri` `React PWA` `Kotlin` |
-| ðŸ“Š [**BritCRM**](https://github.com/britsync07-prog/crm) | Self-hosted all-in-one CRM with LiveKit meetings, team chat, billing + MCP server for AI agents *(live in production)* | `Next.js 16` `Socket.io` `Prisma` `LiveKit` |
-| ðŸ’³ [**BlackDesck**](https://github.com/britsync07-prog/stripepay) | Consultation platform with Stripe Connect payouts & risk-based 3DS checkout | `Laravel` `Inertia` `React` `Stripe` |
-| ðŸ“ˆ [**BritTrade AI**](https://github.com/britsync07-prog/britTrade) | Crypto signal engine with automated Binance futures execution, paper/live parity & Android app | `Node.js` `CCXT` `Capacitor` `Kotlin` |
-| ðŸŽ¬ [**BritTube**](https://github.com/britsync07-prog/BritTube) | AI video generation pipeline â€” script â†’ footage â†’ TTS â†’ subtitles â†’ MP4, with public API & MCP server | `FastAPI` `MoviePy` `Next.js` `MCP` |
-| ðŸŽ° [**WinyPay Client**](https://github.com/britsync07-prog/bdclient011) | Gaming platform with seamless-wallet integration & custom payment gateway | `Next.js 15` `Express` `Prisma` |
-| âœ‰ï¸ [**MailSender**](https://github.com/britsync07-prog/mailsender) | Postal-style multi-tenant MTA infrastructure â€” DKIM/SPF automation, warmup engine, 100k/day design | `TypeScript` `SMTP` `PostgreSQL` `Redis` |
-| ðŸŽ¯ [**LeadHunter**](https://github.com/britsync07-prog/testingit) | B2B lead-gen platform â€” stealth scraping queue, segmented newsletters, HMAC tracking pixels | `Puppeteer` `SQLite` `Stripe` |
+| 🔐 [**AHS Vault**](https://github.com/britsync07-prog/ahs-app) | Zero-knowledge biometric vault — AES-256-GCM chunked storage unlocked by paired phone / WebAuthn | `Go` `Rust/Tauri` `React PWA` `Kotlin` |
+| 📊 [**BritCRM**](https://github.com/britsync07-prog/crm) | Self-hosted all-in-one CRM with LiveKit meetings, team chat, billing + MCP server for AI agents *(live in production)* | `Next.js 16` `Socket.io` `Prisma` `LiveKit` |
+| 💳 [**BlackDesck**](https://github.com/britsync07-prog/stripepay) | Consultation platform with Stripe Connect payouts & risk-based 3DS checkout | `Laravel` `Inertia` `React` `Stripe` |
+| 📈 [**BritTrade AI**](https://github.com/britsync07-prog/britTrade) | Crypto signal engine with automated Binance futures execution, paper/live parity & Android app | `Node.js` `CCXT` `Capacitor` `Kotlin` |
+| 🎬 [**BritTube**](https://github.com/britsync07-prog/BritTube) | AI video generation pipeline — script → footage → TTS → subtitles → MP4, with public API & MCP server | `FastAPI` `MoviePy` `Next.js` `MCP` |
+| 🎰 [**WinyPay Client**](https://github.com/britsync07-prog/bdclient011) | Gaming platform with seamless-wallet integration & custom payment gateway | `Next.js 15` `Express` `Prisma` |
+| ✉️ [**MailSender**](https://github.com/britsync07-prog/mailsender) | Postal-style multi-tenant MTA infrastructure — DKIM/SPF automation, warmup engine, 100k/day design | `TypeScript` `SMTP` `PostgreSQL` `Redis` |
+| 🎯 [**LeadHunter**](https://github.com/britsync07-prog/testingit) | B2B lead-gen platform — stealth scraping queue, segmented newsletters, HMAC tracking pixels | `Puppeteer` `SQLite` `Stripe` |
 
 ---
 
@@ -44,7 +44,7 @@ currently_building: AI-powered tooling & agent integrations (MCP)
 
 </div>
 
-**Deep-work areas:** Payment integrations (Stripe/PayPal Â· idempotent webhooks Â· 3DS/SCA) Â· Email infrastructure (SMTP relays Â· DKIM/SPF Â· warmup Â· deliverability) Â· Realtime systems (Socket.io Â· LiveKit SFU) Â· Desktop apps (Tauri/Rust Â· signed auto-updaters) Â· AI agent surfaces (MCP servers)
+**Deep-work areas:** Payment integrations (Stripe/PayPal · idempotent webhooks · 3DS/SCA) · Email infrastructure (SMTP relays · DKIM/SPF · warmup · deliverability) · Realtime systems (Socket.io · LiveKit SFU) · Desktop apps (Tauri/Rust · signed auto-updaters) · AI agent surfaces (MCP servers)
 
 ---
 
@@ -63,21 +63,29 @@ currently_building: AI-powered tooling & agent integrations (MCP)
 
 ## How I Work
 
-```
- â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”    â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”    â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”    â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
- â”‚  Design it   â”‚ â†’  â”‚   Build it   â”‚ â†’  â”‚  Break it   â”‚ â†’  â”‚  Ship it     â”‚
- â”‚  specs & UX  â”‚    â”‚  full-stack  â”‚    â”‚  tests & QA â”‚    â”‚  CI/PM2/Dockerâ”‚
- â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜    â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜    â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜    â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
-```
+<div align="center">
 
-Every repo in my profile has a documented engineering story â€” real bugs found, real fixes shipped:
+<img src="https://img.shields.io/badge/1_%C2%B7_Design_It-specs_%26_UX-6366f1?style=for-the-badge" alt="Design" />
+&nbsp;
+➜&nbsp;
+<img src="https://img.shields.io/badge/2_%C2%B7_Build_It-full_stack-8b5cf6?style=for-the-badge" alt="Build" />
+&nbsp;
+➜&nbsp;
+<img src="https://img.shields.io/badge/3_%C2%B7_Break_It-tests_%26_QA-d946ef?style=for-the-badge" alt="Break" />
+&nbsp;
+➜&nbsp;
+<img src="https://img.shields.io/badge/4_%C2%B7_Ship_It-CI_%C2%B7_PM2_%C2%B7_Docker-ec4899?style=for-the-badge" alt="Ship" />
+
+</div>
+
+Every repo in my profile has a documented engineering story — real bugs found, real fixes shipped:
 
 - **Race conditions** caught in live capital checks before they cost money
 - **Idempotent payment recording** so webhooks never double-charge
 - **Signed update pipelines** that survive trust-chain rotations
 - **SMTP reputation strategy** separating transactional from bulk mail
 
-> Browse any repository â€” each README documents the challenges faced and how they were solved.
+> Browse any repository — each README documents the challenges faced and how they were solved.
 
 ---
 
