@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=220&section=header&text=Musfiqur%20Rahman%20Saimon&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Product%20Engineer%20%7C%20I%20build%20complete%20products%2C%20not%20just%20code&descSize=16&descColor=e2e8f0&descAlignY=55" width="100%" />
 
@@ -93,9 +93,15 @@ Every repo in my profile has a documented engineering story — real bugs found,
 
 ### Let's Build Something
 
-<a href="mailto:saimon@britsyncai.com"><img src="https://img.shields.io/badge/Email-saimon%40britsyncai.com-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://img.shields.io/badge/Email-mdsaimon552723%40gmail.com-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 &nbsp;
 <a href="https://github.com/britsync07-prog"><img src="https://img.shields.io/badge/GitHub-britsync07--prog-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<br/><br/>
+
+`mdsaimon552723@gmail.com`
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=britsync07-prog&style=for-the-badge&color=8b5cf6" alt="Profile views" />
 
