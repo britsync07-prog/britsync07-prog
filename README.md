@@ -93,13 +93,13 @@ Every repo in my profile has a documented engineering story — real bugs found,
 
 ### Let's Build Something
 
-<img src="https://img.shields.io/badge/Email-saimon%40britsyncai.com-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<img src="https://img.shields.io/badge/Email-saimon%40ascentraconsulting.co.uk-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 &nbsp;
 <a href="https://github.com/britsync07-prog"><img src="https://img.shields.io/badge/GitHub-britsync07--prog-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/><br/>
 
-`saimon@britsyncai.com`
+`saimon@ascentraconsulting.co.uk`
 
 <br/><br/>
 
